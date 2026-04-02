@@ -2,6 +2,7 @@
 
 #X
 
+~~~
 twitter.com
 x.com
 www.twitter.com
@@ -16,6 +17,7 @@ abs-0.twimg.com
 support.twitter.com
 upload.twitter.com
 static.ads-twitter.com
+~~~
 
 Данные домена добавляем в zapret и всё должно будет заработать!! 
 
