@@ -1,8 +1,7 @@
  Всем приветик! (｡･∀･)ﾉﾞ
 
-#X
-
 ~~~
+#X
 twitter.com
 x.com
 www.twitter.com
