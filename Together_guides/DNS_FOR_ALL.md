@@ -6,19 +6,15 @@
 
 Данный сервис испралвяет... цитирую [с официального сайта:](https://xbox-dns.ru/#setup)
 >Xbox Live & Игры
-<br>
 Исправление ошибок входа 0x80a40401. Доступ к Destiny 2, Marathon, Stumble Guys, и играм Supercell (Brawl Stars, Clash of Clans и др.).
 
 >Gemini, Claude, Copilot, ChatGPT, AI
-<br>
 Стабильный доступ к нейросетям без VPN. Работает быстро и напрямую.
 
 >JetBrains, GitHub, Notion
-<br>
 Стабильная работа ключевых инструментов: обновления и лицензии JetBrains, GitHub Copilot, проекты в Notion и Framer.
 
 >Twitch, Spotify, xCloud
-<br>
 Twitch-трансляции в максимальном качестве, Spotify без гео-фильтров, облачный гейминг xCloud — всё без ограничений и задержек.
 
 Примерно такой список. Просто переходите на официальный сайт и там смотрите как подключать dns (на сайте уже всё грамотно расписано)
