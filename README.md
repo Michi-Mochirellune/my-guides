@@ -48,7 +48,7 @@
 
 ### 🆘 Нужна помощь?
 > [!IMPORTANT]
-Если что-то не работает из гайдов или нужно обойти блокировку другого любого сервиса/сайта, можно написать мне в Телеграме или Твиттере ❤️. Попробуем решить проблему (не обещаю) `(>__<)`
+Если что-то не работает из гайдов или нужно обойти блокировку другого любого сервиса/сайта, можно написать мне в Телеграме или Твиттере ❤️. Попробуем решить проблему (не обещаю) >__<
 
 [![Telegram](https://img.shields.io/badge/Telegram-00c0ff?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/PSI_missing)
 [![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/MichiMochillune)
