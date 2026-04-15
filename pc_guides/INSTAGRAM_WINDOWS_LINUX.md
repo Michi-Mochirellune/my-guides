@@ -13,6 +13,7 @@ cdninstagram.com
 graph.instagram.com
 i.instagram.com
 fbcdn.net
+fbsbx.com 
 scontent-hel3-1.cdninstagram.com
 scontent-hel13-1.cdninstagram.com
 ```
