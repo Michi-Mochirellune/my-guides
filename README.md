@@ -3,18 +3,23 @@
 Всем приветик! (｡・∀・)ﾉﾞ
 Решил собрать в одном месте свои инструкции по "оживлению" интернета и сервисов. Надеюсь оно вам поможет!
 
+[![Telegram](https://img.shields.io/badge/Telegram-00c0ff?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/PSI_missing)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/MichiMochillune)
+[![Telegram-группа](https://img.shields.io/badge/Telegram_group-643279?style=for-the-badge&logo=telegram&logoColor=white)](t.me/MochirelluneMichi)
+
+
 > [!NOTE]
 >P.S. Это моя первая подобная "страничка", поэтому я всё ещё учусь правильно сортировать информацию. Структура может меняться. Не убивайте за это **:3**
 
 ---
 
-**Выбирай, что тебе нужно:**
+**Выбирайте, что вам нужно и удобней:**
 
 ## 💻 Компьютеры (Windows / Linux)
-- [**Zapret**](./pc_guides/ZAPRET_WINDOWS_LINUX.md) - Мощное средство для обхода DPI
-- [**Файл Hosts**](./pc_guides/HOSTS_WINDOWS_LINUX.md) - Простая правка системных файлов
-- [**Универсальный**](./pc_guides/UNIVERSAL_WINDOWS.md) - Любые сервисы на ПК. Только для Виндовс
-- [**Расширения для браузеров**](./pc_guides/EXTENSIONS_WINDOWS_LINUX.md) - Самый простой способ для браузеров)
+- [**Zapret**](./pc_guides/ZAPRET_WINDOWS_LINUX.md) - Мощное средство для обхода DPI.
+- [**Файл Hosts**](./pc_guides/HOSTS_WINDOWS_LINUX.md) - Простая правка системных файлов.
+- [**Универсальный**](./pc_guides/UNIVERSAL_WINDOWS.md) - Любые сервисы на ПК. Только для Виндовс.
+- [**Расширения для браузеров**](./pc_guides/EXTENSIONS_WINDOWS_LINUX.md) - Самый простой способ для браузеров.
 - [**Twitter (X)**](./pc_guides/TWITTER_WINDOWS_LINUX.md)
 - [**Instagram**](./pc_guides/INSTAGRAM_WINDOWS_LINUX.md)
 - [**Facebook**](./pc_guides/FACEBOOK_WINDOWS_LINUX.md)
@@ -22,9 +27,14 @@
 ---
 
 ## 📱 Android-устройства
-- [**Универсальный**](./mobile_guides/UNIVERSAL_ANDROID.md) - Любые сервисы и сайты на андроид
-- [**Zapret (NON)root**](./mobile_guides/ZAPRET_ANDROID_(NON)_ROOT.md) - Для рутированных и обычных устройств
-- [**ByeByeDPI**](./mobile_guides/BYEBYEDPI_ANDROID.md) - Локальный VPN
+- [**Cuderportal X**](./mobile_guides/CuderportalX.md) - Бесплатный VPN-клиент со встроенным генератором конфигов WARP.
+- [**Portal WG**](./mobile_guides/PortalWG.md) - Бесплатный VPN-клиент со встроенным генератором конфигов WARP.
+- [**Portal WG lite**](./mobile_guides/PortalWGLite.md) - Бесплатный VPN-клиент со встроенным генератором конфигов WARP (для слабых устройств андроид).
+- [**Portal Tor**](./mobile_guides/PortalTor.md) — это бесплатное приложение для доступа в интернет через сеть Tor.
+- [**Portal Connect**](./mobile_guides/PortalConnect.md) - Бесплатный VPN
+- [**AmneziaVPN**](./mobile_guides/AmneziaVPN.md) - Простой клиент для быстрого запуска VPN по готовым ключам.
+- [**Zapret (NON)root**](./mobile_guides/Zapret_android_(non)Root.md) - Для рутированных и обычных устройств.
+- [**ByeByeDPI**](./mobile_guides/ByeByeDPI.md) - Локальный VPN.
 
 ---
 
@@ -49,10 +59,6 @@
 ### 🆘 Нужна помощь?
 > [!IMPORTANT]
 Если что-то не работает из гайдов или нужно обойти блокировку другого любого сервиса/сайта, можно написать мне в Телеграме или Твиттере ❤️. Попробуем решить проблему (не обещаю) >__<
-
-[![Telegram](https://img.shields.io/badge/Telegram-00c0ff?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/PSI_missing)
-[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/MichiMochillune)
-[![Telegram-группа](https://img.shields.io/badge/Telegram_group-643279?style=for-the-badge&logo=telegram&logoColor=white)](t.me/MochirelluneMichi)
 
 ---
 
