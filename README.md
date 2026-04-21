@@ -7,13 +7,11 @@
 [![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/MichiMochillune)
 [![Telegram-группа](https://img.shields.io/badge/Telegram_group-643279?style=for-the-badge&logo=telegram&logoColor=white)](t.me/MochirelluneMichi)
 
-
-> [!NOTE]
->P.S. Это моя первая подобная "страничка", поэтому я всё ещё учусь правильно сортировать информацию. Структура может меняться. Не убивайте за это **:3**
+В группе... Можно просто пообщаться. Кстати, там я оповещаю о выходе обновлений репозитория.
 
 ---
 
-**Выбирайте, что вам нужно и удобней:**
+**Выбирайте, что вам нужно и удобнее:**
 
 ## 💻 Компьютеры (Windows / Linux)
 - [**Zapret**](./pc_guides/ZAPRET_WINDOWS_LINUX.md) - Мощное средство для обхода DPI.
@@ -23,6 +21,7 @@
 - [**Twitter (X)**](./pc_guides/TWITTER_WINDOWS_LINUX.md)
 - [**Instagram**](./pc_guides/INSTAGRAM_WINDOWS_LINUX.md)
 - [**Facebook**](./pc_guides/FACEBOOK_WINDOWS_LINUX.md)
+- [**EA APP**](./pc_guides/EA_APP.md) - Обход блокировки серверов
 
 ---
 
@@ -61,7 +60,5 @@
 Если что-то не работает из гайдов или нужно обойти блокировку другого любого сервиса/сайта, можно написать мне в Телеграме или Твиттере ❤️. Попробуем решить проблему (не обещаю) >__<
 
 ---
-
-В группе... Можно просто пообщаться. Кстати, там я оповещаю о выходе обновлений репозитория.
 
 ![](./Konata.jpg)
