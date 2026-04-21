@@ -14,6 +14,7 @@
 
 ## 1. Сначало предложу свой вариант, связанный с Zapret'om и файлом hosts
 
+~~~
 ea.com
 origin.com
 help.ea.com
@@ -37,9 +38,11 @@ gateway.ea.com
 accounts.ea.com
 store.ea.com
 socialintegration.ea.com
+~~~
 
 Данный список добавляем в Zapret
 
+~~~
 2.22.70.21 ea.com
 2.22.70.21 api.ea.com
 23.49.166.144 origin.com
@@ -68,6 +71,7 @@ socialintegration.ea.com
 54.243.122.21 accounts.ea.com
 2.22.70.21 store.ea.com
 2.22.70.21 socialintegration.ea.com
+~~~
 
 Вот этот список добавляем в Hosts
 
