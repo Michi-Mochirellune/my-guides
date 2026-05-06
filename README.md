@@ -19,15 +19,15 @@
 **Выбирайте, что вам нужно и удобнее:**
 
 ## 💻 Компьютеры (Windows / Linux)
-- [**Zapret**](./pc_guides/ZAPRET_WINDOWS_LINUX.md) - Мощное средство для обхода DPI.
-- [**Файл Hosts**](./pc_guides/HOSTS_WINDOWS_LINUX.md) - Простая правка системных файлов.
-- [**Cyberportal X**](./pc_guides/Cyberportal_X_Windows.md) - Любые сервисы на ПК. Только для Виндовс.
+- [**Zapret**](./pc_guides/Zapret.md) - Мощное средство для обхода DPI.
+- [**Файл Hosts**](./pc_guides/Hosts.md) - Простая правка системных файлов.
+- [**Cyberportal X**](./pc_guides/Cyberportal_X.md) - Любые сервисы на ПК. Только для Виндовс.
  Самый простой способ для браузеров.
  - [**Обход блокировок Рунета**](./pc_guides/Bypassing_RuNet_blocking.md) (прокси). Расширение для браузера (Может не работать)
  - [**Bunny VPN**](./pc_guides/Bunny_VPN.md) обычный бесплатный впн-расширение для браузера на основе хромиума
-- [**Twitter (X)**](./pc_guides/TWITTER_WINDOWS_LINUX.md)
-- [**Instagram**](./pc_guides/INSTAGRAM_WINDOWS_LINUX.md)
-- [**Facebook**](./pc_guides/FACEBOOK_WINDOWS_LINUX.md)
+- [**Twitter (X)**](./pc_guides/Twitter.md)
+- [**Instagram**](./pc_guides/Instagram.md)
+- [**Facebook**](./pc_guides/Facebook.md)
 - [**EA APP**](./pc_guides/EA_APP.md) - Обход блокировки серверов
 
 ---
