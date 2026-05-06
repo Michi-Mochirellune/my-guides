@@ -40,8 +40,7 @@
 - [**Portal Connect**](./mobile_guides/PortalConnect.md) - Бесплатный VPN
 - [**AmneziaVPN**](./mobile_guides/AmneziaVPN.md) - Простой клиент для быстрого запуска VPN по готовым ключам.
 - [**AmneziaWG**](./mobile_guides/AmneziaWG.md) Продвинутый VPN-клиент с защитой от глубокого анализа трафика (DPI).
-- [**Zapret (NON)root**](./mobile_guides/Zapret_android_(non)Root.md) - Для рутированных и обычных устройств.
-- [**ByeByeDPI**](./mobile_guides/ByeByeDPI.md) - Локальный VPN.
+- [**Zapret (NON)root**](./mobile_guides/ZapretRoot.md) - Zapret для андроида, рекомендуется для рутированных устройств (можно и без рута, но будет работать не так эффективно)
 
 ---
 
