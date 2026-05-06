@@ -33,7 +33,7 @@
 ---
 
 ## 📱 Android-устройства
-- [**Cuderportal X**](./mobile_guides/CuderportalX.md) - Бесплатный VPN-клиент со встроенным генератором конфигов WARP.
+- [**Cyberportal X**](./mobile_guides/CyberportalX.md) - Бесплатный VPN-клиент со встроенным генератором конфигов WARP.
 - [**Portal WG**](./mobile_guides/PortalWG.md) - Бесплатный VPN-клиент со встроенным генератором конфигов WARP.
 - [**Portal WG lite**](./mobile_guides/PortalWGLite.md) - Бесплатный VPN-клиент со встроенным генератором конфигов WARP (для слабых устройств андроид).
 - [**Portal Tor**](./mobile_guides/PortalTor.md) — это бесплатное приложение для доступа в интернет через сеть Tor.
