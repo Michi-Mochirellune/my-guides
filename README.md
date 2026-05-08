@@ -41,6 +41,7 @@
 - [**AmneziaVPN**](./mobile_guides/AmneziaVPN.md) - Простой клиент для быстрого запуска VPN по готовым ключам.
 - [**AmneziaWG**](./mobile_guides/AmneziaWG.md) Продвинутый VPN-клиент с защитой от глубокого анализа трафика (DPI).
 - [**Zapret (NON)root**](./mobile_guides/ZapretRoot.md) - Zapret для андроида, рекомендуется для рутированных устройств (можно и без рута, но будет работать не так эффективно)
+- [**Telegram WS Proxy Android**](./mobile_guides/Telegram.md) - Приложение для создания локального ТГ прокси
 
 ---
 
