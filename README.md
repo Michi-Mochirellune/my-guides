@@ -82,10 +82,3 @@
   <br>
   <em>Это Конота!!! Она следит за репозиторием✌❤</em>
 </p>
-
-## Лицензия / License
-
-Этот проект распространяется на условиях лицензии **CC BY-NC-SA 4.0**.
-This work is licensed under a **CC BY-NC-SA 4.0** International License.
-
-[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](http://creativecommons.org)
