@@ -4,7 +4,9 @@
 В данном репозитории я решил собрать инструкции по "оживлению" интернета и сервисов. Надеюсь оно вам поможет!
 
 ![GitHub](https://img.shields.io/badge/Статус-Активен-brightgreen?style=flat-square) ![Platform](https://img.shields.io/badge/platform-Windows%20%26%20Linux-blue)
+
 ![GitHub stars](https://img.shields.io/github/stars/Michi-Mochirellune/my-guides?style=social) ![GitHub forks](https://img.shields.io/github/forks/Michi-Mochirellune/my-guides?style=social) ![GitHub followers](https://img.shields.io/github/followers/Michi-Mochirellune?style=social)
+
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/PSI_missing)
 
 <details>
