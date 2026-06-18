@@ -82,3 +82,20 @@
   <br>
   <em>Это Конота!!! Она следит за репозиторием✌❤</em>
 </p>
+
+
+<script src="https://giscus.app/client.js"
+        data-repo="Michi-Mochirellune/my-guides"
+        data-repo-id="R_kgDOR4B9gQ"
+        data-category="General"
+        data-category-id="DIC_kwDOR4B9gc4C_cHE"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="preferred_color_scheme"
+        data-lang="ru"
+        crossorigin="anonymous"
+        async>
+</script>
