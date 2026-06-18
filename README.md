@@ -3,10 +3,8 @@
 Всем приветик! (｡・∀・)ﾉﾞ
 В данном репозитории я решил собрать инструкции по "оживлению" интернета и сервисов. Надеюсь оно вам поможет!
 
-![GitHub](https://img.shields.io/badge/Статус-Активен-brightgreen?style=flat-square) ![Platform](https://img.shields.io/badge/platform-Windows%20%26%20Linux-blue)
-<br>
-![GitHub stars](https://img.shields.io/github/stars/Michi-Mochirellune/my-guides?style=social) ![GitHub forks](https://img.shields.io/github/forks/Michi-Mochirellune/my-guides?style=social) ![GitHub followers](https://img.shields.io/github/followers/Michi-Mochirellune?style=social)
-<br>
+![GitHub](https://img.shields.io/badge/Статус-Активен-brightgreen?style=flat-square) ![Platform](https://img.shields.io/badge/platform-Windows%20%26%20Linux-blue) ![GitHub stars](https://img.shields.io/github/stars/Michi-Mochirellune/my-guides?style=social) ![GitHub forks](https://img.shields.io/github/forks/Michi-Mochirellune/my-guides?style=social) ![GitHub followers](https://img.shields.io/github/followers/Michi-Mochirellune?style=social)
+
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/PSI_missing)
 
 <details>
@@ -17,12 +15,12 @@
 Инструкции могут быть написаны слишком притянуто и не понятно (это связано с моим умением писать:3) или те могут быть неактуальными. 
 Я не программист или айтишник, а просто помогаю и делюсь тем, что помогло лично мне. Не судите строго, я просто хочу, чтобы у нас у всех всё работало! (｡•‿•｡)
 </details>
-<br>
+
 <details>
 <summary>🆘 <b>Нажми, если тебе нужна помощь</b></summary>
 Если что-то не работает из гайдов или нужно обойти блокировку другого любого сервиса/сайта, можно написать мне в Telegram❤️ Попробуем решить проблему (не обещаю) >__<
 </details>
-<br>
+
 <details>
 <summary>🍩 <b>Нажми, если хочешь узнать как мне помочь</b></summary>
 Буду очень благодарен, если кто-то поделится своими способами обхода блокировок (рассматриваются исключительно бесплатные варианты. Всё для халявщиков).
@@ -84,3 +82,10 @@
   <br>
   <em>Это Конота!!! Она следит за репозиторием✌❤</em>
 </p>
+
+## Лицензия / License
+
+Этот проект распространяется на условиях лицензии **CC BY-NC-SA 4.0**.
+This work is licensed under a **CC BY-NC-SA 4.0** International License.
+
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](http://creativecommons.org)
