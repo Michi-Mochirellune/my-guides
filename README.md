@@ -29,7 +29,7 @@
 ---
 
 <details>
-<summary>💜 <b>Нажми, чтобы узнать про другие мои ппроекты</b></summary>
+<summary>💜 <b>Нажми, чтобы узнать посмотреть мои другие проекты</b></summary>
 
 [**World Of Password**](https://github.com/Michi-Mochirellune/World-of-Passwords-Secure-Generator-OpenSource) это генератор паролей, полностью бесплатный
 
@@ -71,9 +71,9 @@
 ## 🌐Сайты и подобное ему
 Тут будет список сайтов для их обхода. Тоесть это не отдельные программы, а просто список доменов и айпишек, которые нужно добавить либо в Zapret либо в Hosts, а может сразу в обоих.
 
-- [**Twitter (X)**](./pc_guides/Twitter.md)
-- [**Instagram**](./pc_guides/Instagram.md)
-- [**Facebook**](./pc_guides/Facebook.md)
+- [**Twitter (X)**](./websites/Twitter.md)
+- [**Instagram**](./websites/Instagram.md)
+- [**Facebook**](./websites/Facebook.md)
 
 ---
 
