@@ -28,6 +28,16 @@
 
 ---
 
+<details>
+<summary>💜 <b>Нажми, чтобы узнать про другие мои ппроекты</b></summary>
+
+[**World Of Password**](https://github.com/Michi-Mochirellune/World-of-Passwords-Secure-Generator-OpenSource) это генератор паролей, полностью бесплатный
+
+[**DNS resolver Michigan**](https://github.com/Michi-Mochirellune/dns-resolver-michigan) бесплатный днс резолвер с интересными настроойками :Р
+</details>
+
+---
+
 ## 💻 Компьютеры (Windows / Linux)
 Программы и прочее для Виндовс или Линукс
 
