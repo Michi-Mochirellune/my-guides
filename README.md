@@ -83,7 +83,7 @@
 |[**Twitter (X)**](./websites/Twitter.md)| 
 |[**Instagram**](./websites/Instagram.md)|
 |[**Facebook**](./websites/Facebook.md)|
-|[**СМИ**](./websites/news.md)| Тут собраны независимые СМИ
+|[**СМИ**](./websites/news.md)| Тут собраны независимые СМИ.
 
 ---
 
