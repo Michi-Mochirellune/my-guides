@@ -68,19 +68,39 @@
 
 ---
 
-## 🌐Сайты и подобное ему
-Тут будет список сайтов для их обхода. Тоесть это не отдельные программы, а просто список доменов и айпишек, которые нужно добавить либо в Zapret либо в Hosts, а может сразу в обоих.
-
-- [**Twitter (X)**](./websites/Twitter.md)
-- [**Instagram**](./websites/Instagram.md)
-- [**Facebook**](./websites/Facebook.md)
-
----
-
 ## 🧩Прочее
 Данная категория будет довольно маленькой, тут будет всякая хрень, если проще
 
 - [**Troubleshooting (Устранение проблем)**](./troubleshooting/troubleshooting.md) Тут я буду понемногу писать возможные решения определенных проблем. **(Ещё сырой)**
+
+---
+
+## 🌐Сайты и подобное ему
+Тут будет список сайтов для их обхода. Тоесть это не отдельные программы, а просто список доменов и айпишек, которые нужно добавить либо в Zapret либо в Hosts, а может сразу в обоих.
+
+| Соц.сети |
+|----------|
+|[**Twitter (X)**](./websites/Twitter.md)
+[**Instagram**](./websites/Instagram.md)
+[**Facebook**](./websites/Facebook.md)
+
+| СМИ |
+|----------|
+[**BBC**](./websites/bbc.md)
+[**Радио Свобода**](./websites/radiosvoboda.md)
+[**Настоящее Время**](./websites/currenttime.md)
+[**Медуза**](./websites/meduza.md)
+[**Дождь**](./websites/tvrain.md)
+[**The Insider**](./websites/the-insider.md)
+[**Doxa**](./websites/doxa.md)
+[**7x7 Горизонтальная Россия**](./websites/semnasem.md)
+[**BellingCat**](./websites/bellingcat.md)
+[**It's My City**](./websites/tsmycity.md)
+[**Новая Газета Европа**](./websites/novayagazeta.md)
+[**ОВД Инфо**](./websites/ovd.md)
+[**SotaVision**](./websites/sotavision.md)
+[**SotaProject**](./websites/sotaproject.md)
+[**Всё сразу**](./websites/all-news.md)
 
 ---
 
