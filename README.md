@@ -29,7 +29,7 @@
 ---
 
 <details>
-<summary>💜 <b>Нажми, чтобы узнать посмотреть мои другие проекты</b></summary>
+<summary>💜 <b>Нажми, чтобы посмотреть мои другие проекты</b></summary>
 
 [**World Of Password**](https://github.com/Michi-Mochirellune/World-of-Passwords-Secure-Generator-OpenSource) это генератор паролей, полностью бесплатный
 
@@ -43,6 +43,7 @@
 
 | Название | Описание |
 |----------|----------|
+|[**Idle Slayer**](./pc_guides/idleslayer.md)|Обход блокировки серверов (Сихронизация с облаком)
 |[**Zapret**](./pc_guides/Zapret.md)|Средство для обхода DPI
 |[**Файл Hosts**](./pc_guides/Hosts.md)|Простая правка системных файлов. Самый простой способ для браузеров
 |[**Bunny VPN**](./pc_guides/Bunny_VPN.md)| Обычный бесплатный впн-расширение для браузера на основе хромиума
