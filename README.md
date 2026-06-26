@@ -40,8 +40,7 @@
 <details>
 <summary>💜 <b>Нажми, чтобы посмотреть мои другие проекты</b></summary>
 
-[**World Of Password**](https://github.com/Michi-Mochirellune/World-of-Passwords-Secure
--Generator-OpenSource) это генератор паролей, полностью бесплатный
+[**World Of Password**](https://github.com/Michi-Mochirellune/World-of-Passwords-Secure-Generator-OpenSource) это генератор паролей, полностью бесплатный
 
 [**DNS resolver Michigan**](https://github.com/Michi-Mochirellune/dns-resolver-michigan) бесплатный днс резолвер с интересными настроойками :Р
 </details>
