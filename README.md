@@ -58,6 +58,7 @@
 |[**Bunny VPN**](./pc_guides/Bunny_VPN.md)| Обычный бесплатный впн-расширение для браузера на основе хромиума
 |[**TG WS Proxy**](./pc_guides/TG_WS_Proxy.md)|Локальный прокси Telegram.
 |[**AmneziaWG**](./pc_guides/AmneziaWG.md)|Это VPN на модифицированных конфигах WireGuard. Абсолютно бесплатный. (Только для Виндовс).
+|[**INSTAVPN**](./pc_guides/INSTAVPN.md)| Расширение-ВПН для Инстаграма. Для браузеров на хромиуме
 
 ---
 
