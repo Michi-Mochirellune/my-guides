@@ -3,7 +3,7 @@
 Всем приветик! (｡・∀・)ﾉﾞ
 В данном репозитории я решил собрать инструкции по "оживлению" интернета и сервисов. Надеюсь оно вам поможет!
 
-Плохо работает Github? У меня пояаился этот же репозиторий на [**Gitlab!**](https://gitlab.com/haruhimichika/my-guides) (Возможно обновления на Гитлабе будут с задержкой приходить)
+Плохо работает Github? У меня появился этот же репозиторий на [**Gitlab!**](https://gitlab.com/haruhimichika/my-guides) (Возможно обновления на Гитлабе будут с задержкой приходить)
 
 ![GitHub](https://img.shields.io/badge/Статус-Активен-brightgreen?style=flat-square) ![Platform](https://img.shields.io/badge/platform-Windows%2C%20Linux%2C%20Android-red)![GitHub stars](https://img.shields.io/github/stars/Michi-Mochirellune/my-guides?style=social) ![GitHub forks](https://img.shields.io/github/forks/Michi-Mochirellune/my-guides?style=social) ![GitHub followers](https://img.shields.io/github/followers/Michi-Mochirellune?style=social)
 
