@@ -1,5 +1,5 @@
 Всех приветствую!
 
-Просто переходим по [**ссылке**](https://chromewebstore.google.com/detail/instavpn-%D0%B8%D0%BD%D1%81%D1%82%D0%B0%D0%B3%D1%80%D0%B0%D0%BC-%D0%B1%D0%B5%D0%B7-%D0%B1%D0%BB/cfhifhoonlggibeojpjdfanmlnphmdah?pli=1) и устанавливаем расширение. Открываете расширение, включаете и можете проверять Инсту! Также есть способ связанный с [**Zapret и Hosts**](./websites/Instagram.md). Подходит для Виндовс и Линукса
+Просто переходим по [**ссылке**](https://chromewebstore.google.com/detail/instavpn-%D0%B8%D0%BD%D1%81%D1%82%D0%B0%D0%B3%D1%80%D0%B0%D0%BC-%D0%B1%D0%B5%D0%B7-%D0%B1%D0%BB/cfhifhoonlggibeojpjdfanmlnphmdah?pli=1) и устанавливаем расширение. Открываете расширение, включаете и можете проверять Инсту! Также есть способ связанный с [**Zapret и Hosts**](/websites/Instagram.md). Подходит для Виндовс и Линукса
 
 В качестве бонуса напишу факт про себя: Я ненавижу жару. Щас у меня лето, и в Сибири такая жара невыносимая **:(**
