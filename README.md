@@ -5,6 +5,8 @@
 
 Плохо работает Github? У меня появился этот же репозиторий на [**Gitlab!**](https://gitlab.com/haruhimichika/my-guides) (Возможно обновления на Гитлабе будут с задержкой приходить)
 
+И сильно извиняюсь, что не так часто обновляю репозиторий. Это связано с моей ленью и личными моментами, но если что я часто отвечаю в ТГ!
+
 ![GitHub](https://img.shields.io/badge/Статус-Активен-brightgreen?style=flat-square) ![Platform](https://img.shields.io/badge/platform-Windows%2C%20Linux%2C%20Android-red)![GitHub stars](https://img.shields.io/github/stars/Michi-Mochirellune/my-guides?style=social) ![GitHub forks](https://img.shields.io/github/forks/Michi-Mochirellune/my-guides?style=social) ![GitHub followers](https://img.shields.io/github/followers/Michi-Mochirellune?style=social)
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/PSI_missing) [![Поддержать автора](https://img.shields.io/badge/Поддержать_автора-ff69b4?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://pay.cloudtips.ru/p/c103ddd3)
