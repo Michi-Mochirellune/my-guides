@@ -69,10 +69,10 @@
 
 | Категория | Описание |
 |----------|----------|
-|[**Twitter (X)**](./websites/Twitter.md)| 
-|[**Instagram**](./websites/Instagram.md)|
-|[**Facebook**](./websites/Facebook.md)|
-|[**СМИ**](./websites/news.md)| Тут собраны независимые СМИ.
+|[**Twitter (X)**](./guides/websites/Twitter.md)| 
+|[**Instagram**](./guides/websites/Instagram.md)|
+|[**Facebook**](./guides/websites/Facebook.md)|
+|[**СМИ**](./guides/websites/news.md)| Тут собраны независимые СМИ.
 
 ---
 

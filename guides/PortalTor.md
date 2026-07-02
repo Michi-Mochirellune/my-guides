@@ -2,12 +2,8 @@
 
 В данной инструкции (это точно инструкция?) я распишу про приложение Portal Tor, где скачать, как использовать. И что можно сделать если приложение не работает.
 
-## Описание приложения (Ответ от Grok'a)
-
-Portal Tor - Это VPN-клиент, который пропускает трафик через сеть Tor (The Onion Router)
-
-Как работает Portal Tor:
 <details>
+<summary><b>Описание приложения (Ответ от Grok'a)</b></summary>
 Приложение запускает VpnService Android (как и Portal Connect).
 Весь трафик (или выбранных приложений) направляется в локальный Tor-клиент, встроенный в приложение.
 
@@ -33,7 +29,11 @@ Tor создаёт цепочку из 3 узлов (луковую маршру
 
 [**Sourceforge**](https://sourceforge.net/projects/cyberportal/files/PORTAL%20TOR/)
 
-![](./images/PortalTor1.png)
+<p align="left">
+  <img src="./images/PortalTor1.png" alt="PortalTor" width="300"/>
+  <br>
+  <em></em>
+</p>
 
 ## Настройка и использование
 
@@ -45,7 +45,11 @@ Tor создаёт цепочку из 3 узлов (луковую маршру
 
 ## Решения проблем
 
-![](./images/PortalTor2.png)
+<p align="left">
+  <img src="./images/PortalTor2.png" alt="PortalTor" width="300"/>
+  <br>
+  <em></em>
+</p>
 
 Если у вас всё-таки впн не работает, то можно сделать следующее:
 
