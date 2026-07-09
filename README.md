@@ -4,8 +4,6 @@
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/PSI_missing) [![Поддержать автора](https://img.shields.io/badge/Поддержать_автора-ff69b4?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://pay.cloudtips.ru/p/c103ddd3)
 
-**У меня в жизни произошло плохое событие, поэтому я щас заниматься репозиторием буду не так часто, если совсем уж не заброшу**
-
 Всем приветик! (｡・∀・)ﾉﾞ
 В данном репозитории я решил собрать инструкции по "оживлению" интернета и сервисов. Надеюсь оно вам поможет!
 
