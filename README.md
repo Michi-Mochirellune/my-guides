@@ -49,6 +49,7 @@
 
 | Название | Описание | Платформа|
 |----------|----------|----------|
+|[**ДНС-сервера**](./guides/dns-servers)|Изменение днс-сервера для обхода блокировок нейросетей и прочего| Windows, Linux, Android
 |[**Idle Slayer**](./guides/idleslayer.md)|Обход блокировки серверов (Сихронизация с облаком)| Windows, Linux
 |[**Zapret**](./guides/Zapret.md)|Средство для обхода DPI| Windows, Linux, Android
 |[**Файл Hosts**](./guides/Hosts.md)|Простая правка системных файлов. Самый простой способ для браузеров| Windows, Linux
