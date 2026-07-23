@@ -21,16 +21,16 @@ scontent-hel3-1.cdninstagram.com
 ```
 #Instagram
 
-31.13.86.174 instagram.com
-31.13.86.174 www.instagram.com
-31.13.86.52 edge-chat.instagram.com
-31.13.86.9 gateway.instagram.com
-31.13.86.52 scontent.cdninstagram.com
-31.13.86.52 static.cdninstagram.com
-31.13.86.52 graph.instagram.com
-31.13.86.52 i.instagram.com
-31.13.86.36 fbcdn.net
-57.144.222.1 fbsbx.com
+57.144.154.34 instagram.com
+57.144.154.34 www.instagram.com
+57.144.154.192 edge-chat.instagram.com
+57.144.154.145 gateway.instagram.com
+57.144.154.192 scontent.cdninstagram.com
+57.144.154.192 static.cdninstagram.com
+57.144.154.192 graph.instagram.com
+57.144.154.192 i.instagram.com
+57.144.154.1 fbcdn.net
+57.144.154.1 fbsbx.com
 157.240.205.63 scontent-hel3-1.cdninstagram.com
 ```
 
@@ -39,3 +39,7 @@ scontent-hel3-1.cdninstagram.com
 [Что за домены? Zapret?](../pc_guides/Zapret.md) Там я расписал как установить Zapret и как добавить домена :)
 
 [Что за айпишки? Hosts?](../pc_guides/Hosts.md) Там я расписал как **найти файл hosts** и **как отредактировать сам файл** 🍔🍔
+
+## Дополнительно
+
+Если у вас после махинаций не работает инста, то один из вероятных решений это изменения Dns-адреса в браузере. Меняем Dns-адрес в браузере и снова проверяем
